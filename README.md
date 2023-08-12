@@ -67,11 +67,11 @@ nodemon index.js
 
 The application will **now start listening** on `port 3000`, open up a **web browser** and go to the default path http://localhost:3000/. It will display the **Holy Grail Application**.
 
-![Screen_Shots_02.png](Screen_Shots%2FScreen_Shots_02.png)
+![Screen_Shots_02.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_02.png)
 
 If you click on the `plus` or `minus` buttons on **each section** of the **Holy Grail Application** you would see the **values update** in all of the **sections**.
 
-![Screen_Shots_04.png](Screen_Shots%2FScreen_Shots_04.png)
+![Screen_Shots_04.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_04.png)
 
 ### Accessing Routes:
 
@@ -79,17 +79,17 @@ There are two main **routes** or **endpoints** in this **application**. The **fi
 
 To access the **first route** type in http://localhost/data in the address of your **web browser**. This shows the values on each section of the UI.
 
-![Screen_Shots_05.png](Screen_Shots%2FScreen_Shots_05.png)
+![Screen_Shots_05.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_05.png)
 
 To **update the values** in the **database** the **second route** can be used. Open up a n**ew tab** in the **browser** and type in http://localhost:3000/update/Header/100 the path after http://localhost:3000/update/ is the `key` and the `value`, in this case `Header` is the **key** and `100` is the **value**. This follows the **format** of the **path** in the `index.js` file which is `"/update/:key/:value"`.
 
-![Screen_Shots_06.png](Screen_Shots%2FScreen_Shots_06.png)
+![Screen_Shots_06.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_06.png)
 
 ### Synchronization Calls to the Database:
 
 As you can see in the following console log output, calls to the database from the front-end to the back-end server, and then finally to the database are printed out in the console.
 
-![Screen_Shots_07.png](Screen_Shots%2FScreen_Shots_07.png)
+![Screen_Shots_07.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_07.png)
 
 When done don't forget to stop your docker container in the terminal.
 
