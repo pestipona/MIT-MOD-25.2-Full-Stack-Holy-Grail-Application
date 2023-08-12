@@ -1,6 +1,6 @@
 # Module 25.2 - Full-Stack Holy Grail Application:
 
-[![Screen_Shots_01.png]([Screen_Shots%2FScreen_Shots_01.png](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_01.png))](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_01.png)
+![Screen-Shot-1](https://github.com/pestipona/MIT-MOD-25.2-Full-Stack-Holy-Grail-Application/blob/main/Screen_Shots/Screen_Shots_01.png)
 
 ## Project Description:
 
