@@ -91,6 +91,14 @@ As you can see in the following console log output, calls to the database from t
 
 ![Screen_Shots_07.png](Screen_Shots%2FScreen_Shots_07.png)
 
+When done don't forget to stop your docker container in the terminal.
+
+```shell
+docker ps
+
+docker stop <container ID>
+```
+
 ## Future Improvements:
 
 **Modifying** the **front-end UI** to display more **interactive sections** other than `plus` or `minus` **buttons**.
